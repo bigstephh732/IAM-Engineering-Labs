@@ -1,7 +1,7 @@
 ### Application SSO with Conditional Access Enforcement
 
 ### Concept to Implementation  
-Lab 11 focused on understanding SSO methods and configuration concepts. This extension (Lab 11.5) moves from theory to implementation by deploying SAML-based SSO with Conditional Access and MFA enforcement to reflect real-world enterprise identity security practices.
+This lab focused on understanding SSO methods and configuration concepts. This extension (Lab 11.5) moves from theory to implementation by deploying SAML-based SSO with Conditional Access and MFA enforcement to reflect real-world enterprise identity security practices.
 
 ### Goal
 Configure SAML-based Single Sign-On (SSO) for a non-gallery enterprise application and enforce secure access using Conditional Access with MFA.
