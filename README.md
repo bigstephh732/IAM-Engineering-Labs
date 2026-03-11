@@ -16,7 +16,7 @@ Authentication security
 Enterprise application integration  
 Automated identity lifecycle management  
 
-⸻
+
 
 ### Objectives
 
@@ -30,7 +30,7 @@ The goal of this project is to demonstrate practical IAM engineering skills incl
 
 These labs simulate the types of identity infrastructure deployed in modern enterprise cloud environments.  
 
-⸻
+
 
 ### Technologies Used  
     •    Microsoft Entra ID  
@@ -41,7 +41,7 @@ These labs simulate the types of identity infrastructure deployed in modern ente
     •    SAML Federation  
     •    Role-Based Access Control (RBAC)  
 
-⸻
+
 
 ### Lab Modules
 
@@ -55,7 +55,7 @@ Key features:
     •    Device compliance requirements  
     •    Sign-in log validation and policy troubleshooting  
 
-⸻
+
 
 ### Privileged Identity Management (PIM)
 
@@ -67,7 +67,7 @@ Features:
     •    Time-bound administrative access  
     •    Privileged access audit logging  
 
-⸻
+
 
 ### Identity Governance
 
@@ -79,7 +79,7 @@ Features:
     •    Automated access expiration  
     •    Periodic access certification  
 
-⸻
+
 
 ### Enterprise Application Single Sign-On
 
@@ -90,7 +90,7 @@ Features:
     •    RBAC-based application access  
     •    Conditional Access enforcement for applications  
 
-⸻
+
 
 ### Identity Lifecycle Automation
 
@@ -105,7 +105,7 @@ Automation includes:
 
 
 
-⸻
+
 
 ### Skills Demonstrated
 
@@ -128,7 +128,7 @@ This lab environment demonstrates hands-on IAM engineering capabilities applicab
 
 The project showcases practical experience designing and implementing enterprise IAM solutions in modern cloud identity platforms.
 
-⸻
+
 
 ### Future Enhancements
 
@@ -138,7 +138,7 @@ Planned improvements to this environment include:
     •    Application provisioning automation  
     •    Advanced Microsoft Graph identity automation scripts  
 
-⸻
+
 
 ### Author
 
