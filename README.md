@@ -4,11 +4,17 @@
 
 ### Overview
 
-This project demonstrates a hands-on Identity and Access Management (IAM) engineering lab environment built using Microsoft Entra ID, Microsoft Graph API, and PowerShell automation.
-
-The lab simulates real-world enterprise IAM infrastructure and showcases how identity engineers design, secure, and automate identity systems using Zero Trust security principles.
-
-The environment focuses on core IAM capabilities including identity governance, privileged access management, authentication security, application identity integration, and automated identity lifecycle management.
+This repository demonstrates a hands-on Identity and Access Management (IAM) engineering lab environment built using:  
+Microsoft Entra ID  
+Microsoft Graph API  
+PowerShell automation  
+The labs simulate real-world enterprise IAM infrastructure and demonstrate how identity engineers design, secure, and automate identity systems using Zero Trust security principles.
+The environment focuses on key IAM capabilities including:  
+Identity governance  
+Privileged access management  
+Authentication security  
+Enterprise application integration  
+Automated identity lifecycle management  
 
 ⸻
 
